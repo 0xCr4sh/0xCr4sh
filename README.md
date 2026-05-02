@@ -16,13 +16,14 @@
 ✅ Obsessed with building things from scratch
 
 &gt; ls /skills
-📁 Mongodb/
-📁 FrontEnd/
+📁 C-C++/
 📁 JS/
+📁 C#/
+📁 Python/
 📁 SDL/
 📁 OpenGL/
 📁 GameDev/
-📁 C-C++/
+📁 Full-Stack-Web/
 
 &gt; ping 0xcr4sh.com
 📡 response from GitHub 👾
