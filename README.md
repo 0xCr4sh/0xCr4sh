@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#0d0d0d; padding: 20px; font-family: 'Courier New', monospace; color: #00ffee;">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFEE&size=30&center=true&vCenter=true&width=1000&lines=Initializing...;Welcome+to+0xCr4sh+hub;Breaching+Reality+One+Bit+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFEE&size=30&center=true&vCenter=true&width=1000&lines=Initializing...;Welcome+to+0xCr4sh+hub;Initializing+Profile+One+Bit+at+a+Time" />
 </h1>
 
 <pre style="text-align: left;">
