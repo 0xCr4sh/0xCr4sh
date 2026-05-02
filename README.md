@@ -8,12 +8,11 @@
 &gt; whoami
 "0xCr4sh"
 
-&gt; systemctl start vibes
+&gt; systemctl start
 ✅ Full Stack Dev (JS, Node, Mongo)
 ✅ GameDev || Low Level Graphics Programming || Game Engine Dev
 ✅ C/C++ || Python || Javascript || C# || GLSL
 ✅ Reverse Engineering || Security Curious
-✅ Obsessed with building things from scratch
 
 &gt; ls /skills
 📁 C-C++/
