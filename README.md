@@ -9,8 +9,9 @@
 "0xCr4sh"
 
 &gt; systemctl start vibes
-✅ Full Stack Dev (JS, Node, Mongo, SDL2, C++)
-✅ GameDev || Terminal Wizard || Keyboard Masher
+✅ Full Stack Dev (JS, Node, Mongo)
+✅ GameDev || Low Level Graphics Programming || Game Engine Dev
+✅ C/C++ || Python || Javascript || C# || GLSL
 ✅ Reverse Engineering || Security Curious
 ✅ Obsessed with building things from scratch
 
